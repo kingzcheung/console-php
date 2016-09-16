@@ -16,6 +16,7 @@ use Enum\Debug;
 
 class Console {
 
+    
     protected static $type;
 
     /**
