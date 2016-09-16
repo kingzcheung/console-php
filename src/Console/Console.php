@@ -12,7 +12,6 @@
 
 namespace console;
 
-
 use Enum\Debug;
 
 class Console {
