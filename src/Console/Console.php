@@ -12,6 +12,7 @@
 
 namespace console;
 
+
 use Enum\Debug;
 
 class Console {
@@ -33,6 +34,7 @@ class Console {
             $log .= self::jsLog($arg, ':' . gettype($arg));
         }
 
+        Debug::ERROR;
         //echo Debug::ERROR;
         self::script($log);
 
