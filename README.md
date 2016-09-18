@@ -23,9 +23,9 @@ or add the following lines to your `composer.json`:
 include "vendor/autoload.php";
 
 use Console\Console;
+
 $data1 = "This is a test";
 $data2 = [[1,2,3,['a'=>true]]];
-
 
 Console::log($data1);
 Console::log($data1,$data2);
