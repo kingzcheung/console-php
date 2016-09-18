@@ -34,5 +34,8 @@ Console::json($data2);
 
 Console::table($data2);
 ```
+### printout
+
+Open your browser -> F12(Mac:cmd+option+i) -> You will see the following printout
 
 ![Screenshot](Screenshot.png)
