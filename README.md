@@ -9,7 +9,7 @@ composer require "kingzcheung/console-php"
 ```
 or add the following lines to your `composer.json`:
 
-```
+```json
 {
     "require": {
        "kingzcheung/console-php": "^1.0.0"
@@ -19,7 +19,7 @@ or add the following lines to your `composer.json`:
 
 ### Usage
 
-```
+```php
 include "vendor/autoload.php";
 
 use Console\Console;
