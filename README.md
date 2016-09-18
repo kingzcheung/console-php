@@ -34,3 +34,5 @@ Console::json($data2);
 
 Console::table($data2);
 ```
+
+![Screenshot](Screenshot.png)
