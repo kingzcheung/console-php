@@ -22,7 +22,7 @@ or add the following lines to your `composer.json`:
 ```php
 include "vendor/autoload.php";
 
-use Console\Console;
+use kingzcheung\Console;
 
 $data1 = "This is a test";
 $data2 = [[1,2,3,['a'=>true]]];
