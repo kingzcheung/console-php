@@ -12,7 +12,7 @@ or add the following lines to your `composer.json`:
 ```json
 {
     "require": {
-       "kingzcheung/console-php":"~0.0.1"
+       "kingzcheung/console-php":"~0.0.2"
     }
 }
 ```
